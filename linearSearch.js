@@ -11,4 +11,4 @@ function linearSearch(arr,val){
     return -1;
 }
 
-linearSearch([5,4,1,4,3] , 3)
+linearSearch([5,4,1,4,3] , 3) // 4
